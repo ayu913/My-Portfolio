@@ -2,7 +2,7 @@
   {
     "name": "JOBIFY WEBSITE",
     "desc": "Implemented MERN STACK framework where I built Login/Register, Stats , Add Job , All Job and Profile Page , so user can managehis/her data in the application feasibly",
-    "image": "job",
+    "image": "jobweb",
     "category": "job",
     "links": {
       "view": "https://mern-jobify-2022.herokuapp.com/landing",
@@ -12,8 +12,8 @@
   {
     "name": "E-COMMERCE WEBSITE",
     "desc": "Developed and learned about MERN STACK framework where I built Admin area to manage customers, products & orders (CRUD) &User area to buy, search, review the products and shopping cartwith PayPal & credit/debit payments",
-    "image": "1",
-    "category": "1",
+    "image": "cartweb",
+    "category": "cartweb",
     "links": {
       "view": "https://mern-shoppingapp2021.herokuapp.com/",
       "code": "https://github.com/ayu913/Jobify-MERN-STACK"
@@ -42,7 +42,7 @@
   {
     "name": "Fluix",
     "desc": "An application for Flutter UI's, from where developers can easily  get the awesome UI templates for basic components of an app likelogin, signup, drawers, lists and many more along with code. So youcan just copy and paste the code to get UI for your application.",
-    "image": "fluix",
+    "image": "fluixapp",
     "category": "flutter",
     "links": {
       "view": "https://play.google.com/store/apps/details?id=com.fluixdev.fluix",
@@ -52,7 +52,7 @@
   {
     "name": "Magic Scribble",
     "desc": "It's an fun game where users can draw, paint or also jot down quick points. But the interesting part is the way to reach to the scribble board. It is like puzzle. You have to struggle somewhat for accessing the board. This app was published on PlayStore and Amazon AppStore",
-    "image": "magic",
+    "image": "magicapp",
     "category": "flutter",
     "links": {
       "view": "https://play.google.com/store/apps/details?id=com.tanharpatel.magicscribble",
